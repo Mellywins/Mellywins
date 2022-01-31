@@ -29,6 +29,3 @@
 <center>
 <p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mellywins&" alt="mellywins" /></p>
 </center>
-<center>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mellywins&show_icons=true&locale=en&layout=compact" alt="mellywins" /></p>
-</center>
