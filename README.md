@@ -7,7 +7,7 @@
 
 - Author of  [@EzyFS](https://github.com/Mellywins/EzyFS).
 
-- 🔭 I’m currently working as a DevOps Engineer.
+- 🔭 I’m currently working as a Backend Engineer.
 
 - 🌱 I’m enthousiastic about DDD, Event Driven Microservice Architectures. You can see me applying them in [@EzyFS](https://github.com/Mellywins/EzyFS).
 
